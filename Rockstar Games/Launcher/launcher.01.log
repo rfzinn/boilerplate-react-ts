@@ -1,0 +1,27 @@
+[2024-01-28 11:50:25.193] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19042 Service Pack: 
+[2024-01-28 11:50:25.196] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19042 Service Pack: 
+[2024-01-28 11:50:25.200] [DISPLAY] [Main ] [main] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2024-01-28 11:50:25.206] [DISPLAY] [Main ] [minmode] Starting up normally.
+[2024-01-28 11:50:25.206] [DISPLAY] [Main ] [launcher] Opening log file.
+[2024-01-28 11:50:25.207] [DISPLAY] [Main ] [main] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -skipPatcherCheck -EpicPortal -epiclocale=en -epicsandboxid=0584d2013f0149a791e7b9bad0eec102 -rlrosDomainEnv=prod @args.txt -upgrade -relaunchFromEpic=9d2d0eb64d5c44529cece33fe2a46482
+[2024-01-28 11:50:25.207] [DISPLAY] [Main ] [main] P4 Version: 
+[2024-01-28 11:50:25.207] [DISPLAY] [Main ] [main] RGL Branch: release_14
+[2024-01-28 11:50:25.207] [DISPLAY] [Main ] [main] Version: 1.0.83.1767
+[2024-01-28 11:50:25.207] [DISPLAY] [Main ] [main] Parameters:
+[2024-01-28 11:50:25.207] [DISPLAY] [Main ] [main]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2024-01-28 11:50:25.207] [DISPLAY] [Main ] [main]     -skipPatcherCheck
+[2024-01-28 11:50:25.207] [DISPLAY] [Main ] [main]     -EpicPortal
+[2024-01-28 11:50:25.207] [DISPLAY] [Main ] [main]     -epiclocale=en
+[2024-01-28 11:50:25.207] [DISPLAY] [Main ] [main]     -epicsandboxid=0584d2013f0149a791e7b9bad0eec102
+[2024-01-28 11:50:25.207] [DISPLAY] [Main ] [main]     -rlrosDomainEnv=prod
+[2024-01-28 11:50:25.207] [DISPLAY] [Main ] [main]     @args.txt
+[2024-01-28 11:50:25.207] [DISPLAY] [Main ] [main]     -upgrade
+[2024-01-28 11:50:25.207] [DISPLAY] [Main ] [main]     -relaunchFromEpic=9d2d0eb64d5c44529cece33fe2a46482
+[2024-01-28 11:50:25.228] [DISPLAY] [Main ] [titlemanager] Installed titles:
+[2024-01-28 11:50:25.228] [DISPLAY] [Main ] [titlemanager]  Title                             Progress               Version              Location                                                    
+[2024-01-28 11:50:25.232] [DISPLAY] [Main ] [preqmanager] Could not get preq list from disk; no preqs known to be installed.
+[2024-01-28 11:50:25.233] [DISPLAY] [Main ] [svc] Service version: 1.0.83.1767 (1.0.83.1767)
+[2024-01-28 11:50:25.264] [DISPLAY] [Main ] [fileutils] Version: 2.2.3.4 | 1.0.83.1767 | FFP
+[2024-01-28 11:50:25.277] [DISPLAY] [Workr] [selfupdate] Up-to-date.
+[2024-01-28 11:50:25.327] [DISPLAY] [Main ] [main] Shutting down to request Epic min-mode launch
+[2024-01-28 11:50:25.335] [DISPLAY] [Main ] [svc] Stopping the background service.

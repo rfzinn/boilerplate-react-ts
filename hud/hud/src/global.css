@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/tt-lakes-neue-trial');
+
+:root {
+  --background: #f9f9f9;
+  --to-background: #000000;
+  --three-background: rgb(204, 204, 204);
+  --colorblue: #31ff3f;
+  --titlecolor: #333;
+}
+* {
+  border: 0;
+  box-shadow: none;
+  box-sizing: border-box;
+  font-style: normal;
+  margin: 0;
+  list-style: none;
+  outline: none;
+  user-select: none;
+
+  font-family: "Montserrat";
+  text-decoration: none;
+}
+
+html {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  padding: 1vw;
+  background-size: 100%;
+  background-image: url('https://media.discordapp.net/attachments/1052343736132182086/1194713374307659807/Rectangle_1.png?ex=65df7f09&is=65cd0a09&hm=1ac5690ef24712bedea18b54206579f620226f475f1808c7785648ff09f88849&=&format=webp&quality=lossless&width=550&height=309');
+}
+
+img  {
+  pointer-events: none;
+}
+
+
+button {
+    cursor: pointer;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--colorblue);
+  border-radius: 0.6vh;
+}
+
+::-webkit-scrollbar {
+  height: .35vw;
+  width: .35vw;
+  background-color: #00000032;
+}
+
+::selection {
+    background-color: var(--colorblue);
+}

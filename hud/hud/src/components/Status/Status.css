@@ -1,0 +1,31 @@
+.status {
+  padding-inline: 1vw;
+  height: 2.8vw;
+  background-color: #111111e8;
+  border: 1px solid rgba(255, 255, 255, 0.1%);
+  border-radius: .4vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .5vw;
+  text-align: center;
+}
+
+.status h1 {
+  color: #ffffff71;
+  font-size: 1vw;
+  font-weight: 500;
+}
+
+svg {
+  color: #0073ffac;
+  font-size: 1vw;
+}
+
+.main-status {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: .5vw;
+}

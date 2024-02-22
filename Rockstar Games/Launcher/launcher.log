@@ -1,0 +1,75 @@
+[2024-01-28 11:50:29.274] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19042 Service Pack: 
+[2024-01-28 11:50:29.277] [DISPLAY] [Main ] [sysinfo] OS Version: Major: 10 Minor: 0 Build: 19042 Service Pack: 
+[2024-01-28 11:50:29.281] [DISPLAY] [Main ] [main] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2024-01-28 11:50:29.289] [DISPLAY] [Main ] [minmode] Running in Epic mode.
+[2024-01-28 11:50:29.289] [DISPLAY] [Main ] [minmode] Title Id: gta5
+[2024-01-28 11:50:29.289] [DISPLAY] [Main ] [minmode] Location: C:\Program Files\Epic Games\GTAV
+[2024-01-28 11:50:29.289] [DISPLAY] [Main ] [launcher] Opening log file.
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -skipPatcherCheck -epicAppId=gta5  -AUTH_LOGIN=unused -AUTH_PASSWORD=a4989496eafc4c7c9e0dd95acf85752a -AUTH_TYPE=exchangecode -epicapp=9d2d0eb64d5c44529cece33fe2a46482 -epicenv=Prod -EpicPortal  -epicusername="LudmiloGoat" -epicuserid=ad3df342f3b14906a5803f6a05e8f034 -epiclocale=en -epicsandboxid=0584d2013f0149a791e7b9bad0eec102 -rlrosDomainEnv=prod @args.txt
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main] P4 Version: 
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main] RGL Branch: release_14
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main] Version: 1.0.83.1767
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main] Parameters:
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     -skipPatcherCheck
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     -epicAppId=gta5
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     -AUTH_LOGIN=unused
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     -AUTH_PASSWORD=a4989496eafc4c7c9e0dd95acf85752a
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     -AUTH_TYPE=exchangecode
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     -epicapp=9d2d0eb64d5c44529cece33fe2a46482
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     -epicenv=Prod
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     -EpicPortal
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     -epicusername=LudmiloGoat
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     -epicuserid=ad3df342f3b14906a5803f6a05e8f034
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     -epiclocale=en
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     -epicsandboxid=0584d2013f0149a791e7b9bad0eec102
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     -rlrosDomainEnv=prod
+[2024-01-28 11:50:29.290] [DISPLAY] [Main ] [main]     @args.txt
+[2024-01-28 11:50:29.311] [DISPLAY] [Main ] [titlemanager] Installed titles:
+[2024-01-28 11:50:29.311] [DISPLAY] [Main ] [titlemanager]  Title                             Progress               Version              Location                                                    
+[2024-01-28 11:50:29.315] [DISPLAY] [Main ] [preqmanager] Could not get preq list from disk; no preqs known to be installed.
+[2024-01-28 11:50:29.316] [DISPLAY] [Main ] [svc] Service version: 1.0.83.1767 (1.0.83.1767)
+[2024-01-28 11:50:29.345] [DISPLAY] [Main ] [fileutils] Version: 2.2.3.4 | 1.0.83.1767 | FFP
+[2024-01-28 11:50:29.358] [DISPLAY] [Workr] [selfupdate] Up-to-date.
+[2024-01-28 11:50:29.602] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2024-01-28 11:50:29.824] [DISPLAY] [bgsvc] [svc] Received response from service.
+[2024-01-28 11:50:29.847] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
+[2024-01-28 11:50:29.994] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 0/200)
+[2024-01-28 11:50:29.994] [DISPLAY] [Workr] [titlemanager] Downloading title list...
+[2024-01-28 11:50:29.994] [DISPLAY] [Workr] [titlemanager] Skipping title metadata download as it is available and less old (0 minutes) than the refresh delay (60 minutes).
+[2024-01-28 11:50:29.994] [DISPLAY] [Workr] [titlemanager] Downloading default title list (SCS)...
+[2024-01-28 11:50:29.994] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken='
+[2024-01-28 11:50:30.805] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken=' (status: 0/200)
+[2024-01-28 11:50:30.805] [DISPLAY] [Workr] [titlemanager] Title list updated.
+[2024-01-28 11:50:30.805] [DISPLAY] [Workr] [launcher] Checking for self-update...
+[2024-01-28 11:50:30.808] [DISPLAY] [Workr] [statuschecker] Title Rockstar Games Launcher: No update
+[2024-01-28 11:50:30.808] [DISPLAY] [Workr] [selfupdate] Updating launcher...
+[2024-01-28 11:50:30.810] [DISPLAY] [Workr] [titleupdater] Installing prerequisites for title launcher
+[2024-01-28 11:50:30.819] [DISPLAY] [Workr] [preqmanager] Installer version: 2.2.6.9
+[2024-01-28 11:50:30.819] [DISPLAY] [Workr] [preqmanager] About to launch process: C:\Program Files\Rockstar Games\Launcher\Redistributables\SocialClub\Social-Club-Setup.exe (with commandline: /silent)
+[2024-01-28 11:50:39.865] [DISPLAY] [Workr] [title] Current version for title [pv] Rockstar Games Launcher : 1.0.83.1767
+[2024-01-28 11:50:39.865] [DISPLAY] [Workr] [titleupdater] Rockstar Games Launcher is up-to-date.
+[2024-01-28 11:50:39.866] [DISPLAY] [Workr] [launcher] No self-update, continuing.
+[2024-01-28 11:50:39.866] [DISPLAY] [Workr] [launcher] Checking for prerequisite updates...
+[2024-01-28 11:50:39.870] [DISPLAY] [Workr] [preqmanager] The Social Club version available matches that currently installed (both: 2.2.6.9)
+[2024-01-28 11:50:39.870] [DISPLAY] [Workr] [titleupdater] No prerequisites to install.
+[2024-01-28 11:50:39.870] [DISPLAY] [Workr] [launcher] Checking minimum SDK requirement
+[2024-01-28 11:50:39.879] [DISPLAY] [Main ] [launcher] Closing log file to copy to C:\Users\Rafael Santos\AppData\Local\Rockstar Games\Launcher\CrashLogs\launcher.log
+[2024-01-28 11:50:39.879] [DISPLAY] [Main ] [launcher] Closing log file.
+[2024-01-28 11:50:39.922] [DISPLAY] [Workr] [launcher] Completed Social Club Pre-initialization tasks
+[2024-01-28 11:50:41.086] [DISPLAY] [Main ] [launcher] Social Club UI has started.
+[2024-01-28 11:50:41.087] [DISPLAY] [Main ] [external] Notifying Social Club UI about external launch...
+[2024-01-28 11:50:41.138] [DISPLAY] [Admin] [external] Setting up Epic title...
+[2024-01-28 11:50:41.138] [DISPLAY] [Admin] [titlemanager] Skipping title metadata download as it is available and less old (0 minutes) than the refresh delay (60 minutes).
+[2024-01-28 11:50:42.757] [DISPLAY] [Main ] [launcher] Time to start up: 13503 ms
+[2024-01-28 11:50:42.760] [DISPLAY] [Main ] [ui_mainwindow] Using DPI 96,96
+[2024-01-28 11:50:42.760] [DISPLAY] [Main ] [ui_mainwindow] Using UI Scale: 1.00
+[2024-01-28 11:50:42.760] [DISPLAY] [Main ] [ui_mainwindow] Centering on monitor: 43,64 (1280 x 600)
+[2024-01-28 11:50:42.789] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2024-01-28 11:50:44.009] [DISPLAY] [Main ] [launcher] OnEpicEvent :: 0 received
+[2024-01-28 11:50:44.765] [DISPLAY] [Admin] [external] Epic ownership request indicated valid entitlement of at least once audience
+[2024-01-28 11:50:44.765] [DISPLAY] [Admin] [external] Ready to attempt a launch.
+[2024-01-28 11:50:48.233] [DISPLAY] [Main ] [launcher] Shutdown requested! Forced: false
+[2024-01-28 11:50:48.233] [DISPLAY] [Main ] [launcher] StartShutdown - Now in progress
+[2024-01-28 11:50:48.386] [DISPLAY] [Main ] [app] Application quit requested (exit code: 0)
+[2024-01-28 11:50:48.959] [DISPLAY] [Main ] [svc] Stopping the background service.

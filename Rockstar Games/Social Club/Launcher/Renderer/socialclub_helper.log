@@ -1,0 +1,14 @@
+[2024-01-28 11:50:40.101] [  3092] [1054] ===================================
+[2024-01-28 11:50:40.101] [  3092] [1054] Browser process opened from pid: 5056
+[2024-01-28 11:50:40.101] [  3092] [1054] Language: en
+[2024-01-28 11:50:40.102] [  3092] [1054] Connecting to IPC channel: rgsc_ipc_13c0_channel_0
+[2024-01-28 11:50:40.102] [  3092] [1054] Product version: RockstarGames/2.2.6.9/1.0.83.1767/launcher/Epic
+[2024-01-28 11:50:40.226] [  3092] [1054] OnChannelConnected - rgsc_ipc_13c0_channel_0 (remoteProcessId 5056)
+[2024-01-28 11:50:40.990] [  3092] [1054] Renderer[1][5992] IPC channel response: connect to 'rgsc_ipc_13c0_channel_1'
+[2024-01-28 11:50:40.990] [  3092] [1054] Renderer[1][5992] Connecting to IPC channel: rgsc_ipc_13c0_channel_1
+[2024-01-28 11:50:41.084] [  3092] [1054] Renderer[1][5992] OnChannelConnected - rgsc_ipc_13c0_channel_1 (remoteProcessId 5056)
+[2024-01-28 11:50:49.318] [  3092] [1054] OnChannelError() - rgsc_ipc_13c0_channel_0
+[2024-01-28 11:50:49.318] [  3092] [1054] Shutdown requested
+[2024-01-28 11:50:54.332] [  3092] [1054] Timed out waiting for windows to close on shutdown
+[2024-01-28 11:50:54.348] [  3092] [1054] MainMessageLoopInternalPump - Preparing to shutdown
+[2024-01-28 11:50:57.538] [  3092] [1054] MainMessageLoopInternalPump - Shutdown

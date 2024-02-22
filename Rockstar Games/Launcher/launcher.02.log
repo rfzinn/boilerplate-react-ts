@@ -1,0 +1,74 @@
+[2024-01-28 11:49:54.847] [DISPLAY] [Main ] [main] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2024-01-28 11:49:54.854] [DISPLAY] [Main ] [minmode] Running in Epic mode.
+[2024-01-28 11:49:54.854] [DISPLAY] [Main ] [minmode] Title Id: gta5
+[2024-01-28 11:49:54.854] [DISPLAY] [Main ] [minmode] Location: C:\Program Files\Epic Games\GTAV
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [launcher] Opening log file.
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main] Command line: "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -skipPatcherCheck -epicAppId=gta5  -AUTH_LOGIN=unused -AUTH_PASSWORD=ce7447563e1944e5b2e6b39d8315827d -AUTH_TYPE=exchangecode -epicapp=9d2d0eb64d5c44529cece33fe2a46482 -epicenv=Prod -EpicPortal  -epicusername="LudmiloGoat" -epicuserid=ad3df342f3b14906a5803f6a05e8f034 -epiclocale=en -epicsandboxid=0584d2013f0149a791e7b9bad0eec102 -rlrosDomainEnv=prod @args.txt
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main] Build type: FMB
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main] Version: 1.0.81.1699
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main] Parameters:
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     -skipPatcherCheck
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     -epicAppId=gta5
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     -AUTH_LOGIN=unused
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     -AUTH_PASSWORD=ce7447563e1944e5b2e6b39d8315827d
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     -AUTH_TYPE=exchangecode
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     -epicapp=9d2d0eb64d5c44529cece33fe2a46482
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     -epicenv=Prod
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     -EpicPortal
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     -epicusername=LudmiloGoat
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     -epicuserid=ad3df342f3b14906a5803f6a05e8f034
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     -epiclocale=en
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     -epicsandboxid=0584d2013f0149a791e7b9bad0eec102
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     -rlrosDomainEnv=prod
+[2024-01-28 11:49:54.855] [DISPLAY] [Main ] [main]     @args.txt
+[2024-01-28 11:49:54.875] [DISPLAY] [Main ] [titlemanager] Could not get title list cache from disk; no titles known to be installed.
+[2024-01-28 11:49:54.875] [WARNING] [Main ] [titlemanager] RGL install location not set, using exe location: C:\Program Files\Rockstar Games\Launcher
+[2024-01-28 11:49:54.875] [DISPLAY] [Main ] [preqmanager] Could not get preq list from disk; no preqs known to be installed.
+[2024-01-28 11:49:54.876] [WARNING] [Main ] [settingsmanager] Couldn't read settings file C:\Users\Rafael Santos\AppData\Local\Rockstar Games\Launcher\settings_user.dat; using defaults.
+[2024-01-28 11:49:54.876] [WARNING] [Main ] [settingsmanager] Couldn't read settings file C:\ProgramData\Rockstar Games\Launcher\settings_machine.dat; using defaults.
+[2024-01-28 11:49:54.876] [DISPLAY] [Main ] [settingsmanager] No user language setting, defaulting to 'pt-PT'
+[2024-01-28 11:49:54.877] [DISPLAY] [Main ] [svc] Service version: 1.0.81.1699 (1.0.81.1699)
+[2024-01-28 11:49:54.905] [DISPLAY] [Main ] [main] Current environment (prod) different to previous launch (); updating environment setting
+[2024-01-28 11:49:54.906] [DISPLAY] [Main ] [fileutils] Version: 2.2.3.4 | 1.0.81.1699 | FFP
+[2024-01-28 11:49:55.299] [DISPLAY] [bgsvc] [svc] Received response from service.
+[2024-01-28 11:49:55.343] [DISPLAY] [net1 ] [title] Current version for title [pv] Launcher : 1.0.81.1699
+[2024-01-28 11:49:55.697] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2024-01-28 11:49:55.704] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
+[2024-01-28 11:49:55.894] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 0/200)
+[2024-01-28 11:49:55.894] [DISPLAY] [Workr] [titlemanager] Downloading title list...
+[2024-01-28 11:49:55.900] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/title_metadata.json'
+[2024-01-28 11:49:55.993] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/title_metadata.json' (status: 0/200)
+[2024-01-28 11:49:56.029] [DISPLAY] [Workr] [titlemanager] Downloading default title list (SCS)...
+[2024-01-28 11:49:56.029] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken='
+[2024-01-28 11:49:59.863] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetDefaultApps?accessToken=' (status: 0/200)
+[2024-01-28 11:49:59.863] [DISPLAY] [Workr] [titlemanager] Title list updated.
+[2024-01-28 11:49:59.863] [DISPLAY] [Workr] [launcher] Checking for self-update...
+[2024-01-28 11:49:59.866] [DISPLAY] [Workr] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetBuildManifestFullNoAuth?branchAccessToken=BRANCHACCESS token="UbE5WrgvKCB9ylovFGvPHTk4DWDfKLtfDtIrFa2zaFPmGk19CQ8lPAJHxWggDpuPqgzCZHiLF8KV3X8KPWGkqVDkL1SUyk6ptQc/kzADIZk=",signature="rg+u6SSxRxxRaoA+7SdPQQUhmIkZaiN9krbN+HPoaxM="'
+[2024-01-28 11:50:00.781] [DISPLAY] [Workr] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/GetBuildManifestFullNoAuth?branchAccessToken=BRANCHACCESS token="UbE5WrgvKCB9ylovFGvPHTk4DWDfKLtfDtIrFa2zaFPmGk19CQ8lPAJHxWggDpuPqgzCZHiLF8KV3X8KPWGkqVDkL1SUyk6ptQc/kzADIZk=",signature="rg+u6SSxRxxRaoA+7SdPQQUhmIkZaiN9krbN+HPoaxM="' (status: 0/200)
+[2024-01-28 11:50:00.783] [DISPLAY] [Workr] [statuschecker] Title Rockstar Games Launcher: 0.0 KB / 235.96 MB
+[2024-01-28 11:50:00.783] [DISPLAY] [Workr] [selfupdate] Updating launcher...
+[2024-01-28 11:50:02.345] [DISPLAY] [Admin] [idownloader] Starting download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/RetrieveFileChunkNoAuthMulti'
+[2024-01-28 11:50:03.247] [DISPLAY] [Admin] [idownloader] Completed download of 'https://rgl-prod.ros.rockstargames.com/launcher/11/LauncherServices/App.asmx/RetrieveFileChunkNoAuthMulti' (status: 0/200)
+[2024-01-28 11:50:21.044] [DISPLAY] [Workr] [downloadprogress] Dl: D|203446792|18|12|0|0
+[2024-01-28 11:50:21.047] [DISPLAY] [Workr] [titleupdater] Launcher needs to restart to be made up-to-date.
+[2024-01-28 11:50:21.047] [DISPLAY] [Workr] [titleupdater] Update of Rockstar Games Launcher succeeded; needs restart to complete.
+[2024-01-28 11:50:21.165] [DISPLAY] [Workr] [selfupdate] Applying downloaded self-update...
+[2024-01-28 11:50:21.175] [DISPLAY] [Workr] [title] Installed launcher version in registry updated: 1.0.81.1699 -> 1.0.83.1767
+[2024-01-28 11:50:21.175] [DISPLAY] [Workr] [title] Updated version via [sfv] for title Rockstar Games Launcher : 1.0.83.1767
+[2024-01-28 11:50:21.385] [DISPLAY] [Workr] [title] Current version for title [pv] Rockstar Games Launcher : 1.0.81.1699
+[2024-01-28 11:50:21.394] [DISPLAY] [Workr] [title] Installed launcher version in registry updated: 1.0.83.1767 -> 1.0.81.1699
+[2024-01-28 11:50:21.440] [WARNING] [bgsvc] [svc_transactionqueue] Transaction failed: 101
+[2024-01-28 11:50:21.445] [ ERROR ] [Workr] [svc_chunk] Failed to delete: C:\Program Files\Rockstar Games\Launcher\RockstarService.exe.old
+[2024-01-28 11:50:21.456] [WARNING] [bgsvc] [svc_transactionqueue] Transaction failed: 102
+[2024-01-28 11:50:21.462] [ ERROR ] [Workr] [svc_chunk] Failed to delete: C:\Program Files\Rockstar Games\Launcher\Launcher.exe.old
+[2024-01-28 11:50:22.084] [DISPLAY] [Workr] [title] Installed launcher version in registry updated: 1.0.81.1699 -> 1.0.83.1767
+[2024-01-28 11:50:22.084] [DISPLAY] [Workr] [title] Updated version via [sfv] for title Rockstar Games Launcher : 1.0.83.1767
+[2024-01-28 11:50:22.092] [DISPLAY] [Workr] [selfupdate] Self-update applied, need to restart.
+[2024-01-28 11:50:22.093] [DISPLAY] [Workr] [launcher] Restarting to apply self-update...
+[2024-01-28 11:50:22.093] [DISPLAY] [Workr] [lifecycle] Setting to restart after exit.
+[2024-01-28 11:50:22.093] [DISPLAY] [Workr] [external] Requesting Epic re-launch of title '9d2d0eb64d5c44529cece33fe2a46482'
+[2024-01-28 11:50:22.093] [DISPLAY] [Workr] [launcher] Shutdown requested! Forced: false
+[2024-01-28 11:50:22.094] [DISPLAY] [Main ] [launcher] StartShutdown - Now in progress
+[2024-01-28 11:50:22.165] [DISPLAY] [Main ] [app] Application quit requested (exit code: 0)
+[2024-01-28 11:50:22.191] [DISPLAY] [Main ] [svc] Stopping the background service.

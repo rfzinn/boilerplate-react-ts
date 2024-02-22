@@ -1,0 +1,59 @@
+.main-kill {
+  max-width: 15vw;
+  background-color: #111111e8;
+  border: 1px solid rgba(255, 255, 255, 0.1%);
+  border-radius: .5vw;
+  max-height: 4.5vw;
+  padding-inline: 1vw;
+  padding-block: .5vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: .5vw;
+  position: relative;
+  text-align: center;
+}
+
+.icon  h1 {
+  color: #ffffffef;
+  font-size: .8vw;
+  font-weight: 500;
+}
+
+b {
+  color: white;
+  font-size: .8vw;
+  font-weight: 500;
+}
+
+.icon {
+  padding-inline: 1vw;
+  height: 1.6vw;
+  background-color: #007bff1f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .5vw;
+  position: absolute;
+  top: -1vw;
+  border-radius: .3vw;
+  color: white;
+  border: 1px solid #0073ff10;
+}
+
+.text {
+  color: #ffffffab;
+  font-size: 1vw;
+  font-weight: 500;
+  font-family: 'TT Lakes Neue Trial';
+}
+
+.kill {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1.5vw;
+}
